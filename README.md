@@ -4,9 +4,11 @@
 
 [Direkte download link](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-1/table-1.xls/output.xls)
 
+Eller du kan downloade den fra repositoriet (fbi.xls)
+
 Har linket til et FBI excel dataset "Crime in the United States", som viser forskellige typer af forbrydelser fra 1997 - 2016.
 
-Når i har downloadet filen, kommer det til at være en stor hjælp, hvis i åbner det og sletter de 3 øverste columns, og de 6 nederste og rykker resten op.
+Når i har downloadet filen, kommer det til at være en stor hjælp, hvis i åbner det og sletter de 3 øverste columns, og de 6 nederste og rykker resten op. Hvis i har hentet filen fra repositoriet har jeg gjort det for jer.
 
 Hvis i sider fast med at læse fra excel filen, så check [linket](https://pythonspot.com/read-excel-with-pandas/) ud.
 
