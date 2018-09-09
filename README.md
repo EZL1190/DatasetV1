@@ -30,9 +30,9 @@ filtype = .xls
 Fordi man skal logge ind for at downloade data settet, har jeg lagt det i repositoriet, og fordi i kun skal bruge det ene ud af to dataset(train.json).
 
 * I skal lave en liste/array med alle ingredienser, som er sorteret med den ingrediens der fremgår flest gange først.
-* Hvilke "d, har flest ingredienser?
+* Hvilke id, har flest ingredienser?
 * i skal lave et multidimensional dictionary, hvor key er cusine og value er et nyt dictionary med de "items" som er inde for den cusine gruppe.
-
 Har tilføjet en fil multidimensional_exemple, som er et eksemple, hvis det jeg skrev ikke gav så meget mening.
-* 
+* Sorter dictionary'et efter id.
+* Tæl hvor mange ingredienser der er i alt.
 
