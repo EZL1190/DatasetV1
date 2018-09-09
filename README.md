@@ -14,6 +14,6 @@ Hvis i sider fast med at læse fra excel filen, så check [linket](https://pytho
 * Hvilken type forbrydelse(ikke "violent crime") er der blevet begået flest af i alt i den tids periode?
 * Hvad er det gennemsnitlige antal røverrier(Robbery) om året?
 * Med datasettet skal i lave dictionaries med 3 forkskellige forbrydelser(ikke dem med "rate") af eget valg, hvor key er året(year) og value er fx. "violent crime", "rape", "robbery", etc. 
-* Hvor mange forbrydelser(Violent crime) er der blevet begået i alt fra [2000 : 2010]?
+* Hvor mange forbrydelser(Burglary) er der blevet begået i alt fra [2000 : 2010]?
 
 
