@@ -11,6 +11,7 @@ Når i har downloadet filen, kommer det til at være en stor hjælp, hvis i åbn
 Hvis i sider fast med at læse fra excel filen, så check [linket](https://pythonspot.com/read-excel-with-pandas/) ud.
 
 sheetname = 16tbl01
+filtype = .xls
 
 * Hvilket år er "Violent crime rate" højst?
 * Hvilken type forbrydelse(ikke "violent crime") er der blevet begået flest af i alt i den tids periode?
