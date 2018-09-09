@@ -27,3 +27,4 @@ filtype = .xls
 
 [Recipes dataset](https://www.kaggle.com/kaggle/recipe-ingredients-dataset#train.json)
 
+Fordi man skal logge ind for at downloade data settet, har jeg lagt det i repositoriet, og fordi i kun skal bruge det ene ud af to dataset(train.js).
