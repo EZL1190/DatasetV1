@@ -33,5 +33,6 @@ Fordi man skal logge ind for at downloade data settet, har jeg lagt det i reposi
 * Hvilke "d, har flest ingredienser?
 * i skal lave et multidimensional dictionary, hvor key er cusine og value er et nyt dictionary med de "items" som er inde for den cusine gruppe.
 
-Har tilføjet en fil multidimensional_exemple.json, som er et eksemple, hvis det jeg skrev ikke gav så meget mening.
+Har tilføjet en fil multidimensional_exemple, som er et eksemple, hvis det jeg skrev ikke gav så meget mening.
+* 
 
