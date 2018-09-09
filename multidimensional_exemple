@@ -1,0 +1,41 @@
+[
+  ["Greek"]{
+    [0]{
+      "id": 10259,
+      "cuisine": "greek",
+      "ingredients": [
+        "romaine lettuce",
+        "black olives",
+        "grape tomatoes",
+        "garlic",
+        "pepper",
+        "purple onion",
+        "seasoning",
+        "garbanzo beans",
+        "feta cheese crumbles"
+      ]
+    },
+    [1]{
+      "id": 34466,
+      "cuisine": "british",
+      "ingredients": [
+        "greek yogurt",
+        "lemon curd",
+        "confectioners sugar",
+        "raspberries"
+      ]
+    }
+  },
+  ["italian"]{
+    [0]{
+      "id": 1420,
+      "cuisine": "italian",
+      "ingredients": [
+        "italian seasoning",
+        "broiler-fryer chicken",
+        "mayonaise",
+        "zesty italian dressing"
+      ]
+    }
+  }
+]
